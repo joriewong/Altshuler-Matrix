@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Input Altshuler Matrix</title>
+</head>
+<body>
+	<script type="text/javascript">
+		let arr = [];
+		for (let i = 0 ; i < 40; i++) {	
+			if(i==0){
+				arr.push([]);
+				continue;
+			}
+			let temp = [];	
+			for (let j = 0; j < 4; j++) {
+				let item = prompt(i + ',' + j);
+				temp.push(item);
+			}
+			arr.push(temp);
+		}
+		let result = JSON.stringify(arr);
+		document.write(result)
+		console.log(result);
+	</script>
+</body>
+</html>
