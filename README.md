@@ -1,5 +1,7 @@
 # Altshuler-Matrix
 
+By Genrich S. Altshuler
+
 ## TRIZ矛盾矩阵
 
 - 39个通用工程参数
