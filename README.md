@@ -17,9 +17,9 @@ By Genrich S. Altshuler
 
 You can also donate me for a coffee, and I'll do better. Thanks.
 
-|                                 Wechat Pay                                  |                                   Alipay                                    |
-|:---------------------------------------------------------------------------:|:---------------------------------------------------------------------------:|
-| ![wechat](https://github.com/joriewong/Altshuler-Matrix/blob/gh-pages/donate/Wechat%20Pay.jpg) | ![alipay](https://github.com/joriewong/Altshuler-Matrix/blob/gh-pages/donate/Alipay.jpg) |
+|                                   Alipay                                    |
+|:---------------------------------------------------------------------------:|
+| ![alipay](https://github.com/joriewong/Altshuler-Matrix/blob/gh-pages/donate/Alipay.jpg) |
 
 ## License
 
